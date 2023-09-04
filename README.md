@@ -4,8 +4,14 @@ This repository contains code and documentation for developing a Decision Tree C
 The dataset used for this project is a CSV file containing transaction data. It has 6,362,620 rows and 10 columns. The dataset includes information such as transaction amount, merchant information, and whether the transaction was fraudulent or not.
 # Packages
 Make sure you have Python and the following libraries installed:
+
 pandas
+
 numpy
-sci-kit-learn
-matplotlib
-seaborn
+
+scikit-learn
+
+You can install these libraries using pip:
+
+pip install pandas numpy scikit-learn matplotlib seaborn
+
